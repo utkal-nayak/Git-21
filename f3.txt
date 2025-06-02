@@ -1,0 +1,6 @@
+ghjf
+nayak
+Utkal
+ls -lrt
+cat
+pwd
